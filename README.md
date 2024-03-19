@@ -6,8 +6,8 @@ Olá! Eu sou o Samuel Izaias 👋
 
 <div>
   <a href-"https://github.com/samuel-izaias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-izaias&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-izaias&layout=compact&langs_count=16&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-izaias&show_icons=true&theme=dracula#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-izaias&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@ Olá! Eu sou o Samuel Izaias 👋
   ##
  
 <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:samu.izaias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-izaias-6886451b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
